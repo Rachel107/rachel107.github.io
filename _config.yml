@@ -94,12 +94,12 @@ analytics:
 # Site Author
 author:
   name             : "Rachel Jun"
-  avatar           : "D:/규띠/증명사진.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a **cute and pretty** person."
-  location         : "Spatial Analysis Lab"
-  email            : "kyuhui98@khu.ac.kr"
+  location         : "Spatial Analysis Lab, Kyunghee University"
+  email            : # "kyuhui98@khu.ac.kr"
   links:
-    - label: "Email"
+    - label: "Any recommendations?"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kyuhui98@khu.ac.kr"
     - label: "Website"
@@ -116,7 +116,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/kkyyuu_0417"
 
 # Site Footer
 footer:
