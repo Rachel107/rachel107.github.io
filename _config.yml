@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Rachel Jun"
-  avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a **cute and pretty** person."
   location         : "Spatial Analysis Lab, Kyunghee University"
   email            : # "kyuhui98@khu.ac.kr"
