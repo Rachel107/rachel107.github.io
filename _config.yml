@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Rachel Jun"
   avatar           : "/rachel107.github.io/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a **cute and pretty** person."
-  location         : "Spatial Analysis Lab, Kyunghee University"
+  bio              : "I am a **cute** person."
+  location         : "Spatial Analysis Lab, KHU"
   email            : # "kyuhui98@khu.ac.kr"
   links:
     - label: "Any recommendations?"
@@ -114,7 +114,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
+    - label: "Follow me on Instagram!"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/kkyyuu_0417"
 
