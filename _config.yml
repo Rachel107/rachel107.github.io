@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "Rachel Jun"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "D:/규띠/증명사진.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a **cute and pretty** person."
   location         : "Spatial Analysis Lab"
-  email            :
+  email            : "kyuhui98@khu.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:kyuhui98@khu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
